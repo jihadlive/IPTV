@@ -80,9 +80,9 @@ http://15.1.1.34:8282/Ntv/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/banglatv.jpg" ,BANGLA TV 
 http://15.1.1.34:8282/bangla-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/BanglaVision.jpg" ,BANGLAVISION 
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/banglavision.jpg" ,BANGLAVISION 
 http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/Boishakhi.jpg" ,BOISHAKHI TV
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/boishakhi.jpg" ,BOISHAKHI TV
 http://15.1.1.34:8282/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/nagorik.jpg" ,NAGORIK TV
 http://15.1.1.34:8282/nagorik-tv/tracks-v1a1/mono.m3u8
@@ -111,32 +111,26 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/colorshd.jpg" ,COLORS TV
 http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/sonyaath.jpg" , Discovery Bangla
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-_BzzBn1YYHM/TX0DAvTOqlI/AAAAAAAAE5w/7AN9O0W6cVo/s1600/Logo+Discovery+Channel+2000.png" , Discovery Bangla
 http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/sonyaath.jpg" , NATIONAL GEOGRAPHICS
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/nationalgeobd.jpg" , NATIONAL GEOGRAPHICS
 http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/sonyaath.jpg" ,TRAVEL XP
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/animalplanetnew.jpg" ANIMAL PLANENT
+http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/travelxphd.jpg" ,TRAVEL XP
 http://15.1.1.10:8282/travel-xp/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1,ZEE_CINEMA_HD
-http://15.1.1.34:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS_HD
-
-#EXTINF:-1,SONY_MAX_HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-
-
-#EXTINF:-1,9X_JALWA_HD
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/atnmusic.jpg" ,ATN_MUSIC_HD
+http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/gaanbangla.jpg" GAANBANGLA
+http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/9xjalwa.jpg" ,9X JALWA
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,9XM_HD
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/=9xm.jpg" ,9XM_HD
 http://15.1.1.34:8282/9XM/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, STAR_SPORTS_HD
+#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/travelxphd.jpg" , STAR_SPORTS_HD
 http://15.1.1.34:8282/en3-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_SIX_HD
 
@@ -190,7 +184,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" ,JAGO_ATN Music [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
-http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ATN_MUSIC_HD
-http://15.1.1.34:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
+
+
 
