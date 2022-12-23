@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,GTV
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",GTV
 https://cdn1.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",T Sports
 https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTV SPORTS
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",PTV SPORTS
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A SPORTS
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",A SPORTS
 http://160.238.0.66/load/asports/chunks.m3u8
-#EXTINF:-1,SPORTS 18
+#EXTINF:-1tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",SPORTS 18
 http://15.1.1.10:8282/en3-37/tracks-v1a1/mono.m3u8
-#EXTINF:-1,WILLOW CRICKET 
+#EXTINF:-1tvg-logo="http://15.1.5.14/assets/images/willowhd.jpg",WILLOW CRICKET 
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=581835&extension=ts
 #EXTINF:-1,WILLOW XTRA
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=603036&extension=ts
