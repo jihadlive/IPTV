@@ -128,6 +128,12 @@ http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/9xm.jpg" ,9XM_HD
 http://15.1.1.34:8282/9XM/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/starworld.jpg" ,STAR WORLD
+http://103.143.235.50/star-worldhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/moviesnowhd.jpg" ,MOVIE NOW
+http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/sonypix.jpg" ,SONY PIX
+http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/9xm.jpg" ,
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/9xm.jpg" ,
 
