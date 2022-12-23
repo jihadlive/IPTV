@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/gtv.png" ,
+#EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/gtv.png" ,GTV
 https://cdn1.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" ,T Sports
+#EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/tsports.png" ,T Sports
 https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" ,PTV SPORTS
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
