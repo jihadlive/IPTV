@@ -70,7 +70,7 @@ http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/channeli.jpg" ,CHANNEL I
 http://15.1.1.34:8282/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/Ekushey.jpg" ,EKUSHEY TV
+#EXTINF:-1 tvg-logo="http://15.1.1.10/assets/images/ekushey.jpg" ,EKUSHEY TV
 http://15.1.1.34:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV
 https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
