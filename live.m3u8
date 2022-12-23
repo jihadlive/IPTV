@@ -26,7 +26,7 @@ http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&ex
 #EXTINF:-1,STAR SELECT 1
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862747&extension=ts
 #EXTINF:-1,STAR SELECT 2
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862748&extension=ts
+http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY SPORTS 1
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862726&extension=ts
 #EXTINF:-1,SONY SPORTS 2
