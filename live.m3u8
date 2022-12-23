@@ -7,6 +7,8 @@ https://cdn1.aliflailabd.com/tsports/tracks-v1a1/mono.m3u8
 https://cdn1.aliflailabd.com/ptvsports/tracks-v1/mono.m3u8
 #EXTINF:-1,A SPORTS
 http://160.238.0.66/load/asports/chunks.m3u8
+#EXTINF:-1,SPORTS 18
+http://15.1.1.10:8282/en3-37/tracks-v1a1/mono.m3u8
 #EXTINF:-1,WILLOW CRICKET 
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=581835&extension=ts
 #EXTINF:-1,WILLOW XTRA
