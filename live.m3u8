@@ -25,7 +25,7 @@ http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=809451&ex
 
 
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/starsports1.jpg"   ,STAR SPORTS 1
-http://15.1.1.10:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://103.143.235.50/stersports1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/starsports2.jpg"   ,STAR SPORTS 2
 http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862745&extension=ts
 #EXTINF:-1 tvg-logo="http://15.1.5.14/assets/images/starselect1.jpg" ,STAR SELECT 1
